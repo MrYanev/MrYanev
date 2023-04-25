@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atanas Yanev</h1>
 <h3 align="center">Aspiring Undergraduate in Computer Science with Artificial Intelligence</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/pixels-neon-old-80s-hacker-gif-21156226">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mryanev&label=Profile%20views&color=0e75b6&style=flat" alt="mryanev" /> </p>
 
