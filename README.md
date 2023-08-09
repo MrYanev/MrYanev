@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atanas Yanev</h1>
-<h3 align="center">Aspiring Undergraduate in Computer Science with Artificial Intelligence</h3>
+<h3 align="center">Aspiring Graduate in Computer Science with Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mryanev&label=Profile%20views&color=0e75b6&style=flat" alt="mryanev" /> </p>
 
