@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mryanev" alt="mryanev" /></a> </p>
 
-- 🔭 I’m currently working on **CNN for image recognition**
+- 🔭 I’m currently working on **75Hard Challenge API in GO**
 
-- 🌱 I’m currently learning **machine and deep learning**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **AI projects**
 
